@@ -1,4 +1,4 @@
-## Have you ever wanted to watch an animation in a terminal at an abnormally small resolution?
+# Have you ever wanted to watch an animation in a terminal at an abnormally small resolution?
 ## Me neither! But now, you can do it!
 
 In glorious black & white **OR** EIGHT COLORS (that's more than 0), you can now watch your FAVORITE videos right in your terminal*!
