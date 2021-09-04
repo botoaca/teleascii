@@ -20,4 +20,4 @@ In glorious black & white **OR** TRUE COLOR, you can now watch your FAVORITE vid
 ##### Libraries used in Python: [OpenCV](https://opencv.org/).
 
 <sub><sup>\* at a very small resolution</sup></sub>
-<sub><sup>Software For Make Benefit Bilateral Relations Between Glorious Nations Romania And Moroccan Kingdom</sup></sub>
+<br /><sub><sup>Software For Make Benefit Bilateral Relations Between Glorious Nations Romania And Moroccan Kingdom</sup></sub>
